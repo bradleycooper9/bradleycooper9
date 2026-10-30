@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0B95E6"/><stop offset=".5" stop-color="#886BDA"/><stop offset="1" stop-color="#EC4FA0"/></linearGradient></defs>
+<path fill="url(#g)" d="M0 110V45C140 15 280 70 440 50C600 30 740 0 880 30C930 41 970 45 1000 40V110Z"/></svg>

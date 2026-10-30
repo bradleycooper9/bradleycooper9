@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="205" viewBox="0 0 1000 205">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#EC4FA0"/><stop offset=".55" stop-color="#886BDA"/><stop offset="1" stop-color="#0B95E6"/></linearGradient></defs>
+<path fill="url(#g)" d="M0 0H1000V170C860 205 720 150 560 175C400 200 260 230 120 190C70 183 30 180 0 185Z">
+  <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 0H1000V170C860 205 720 150 560 175C400 200 260 230 120 190C70 183 30 180 0 185Z;M0 0H1000V185C850 160 720 205 560 185C400 165 260 200 120 175C70 167 30 172 0 170Z;M0 0H1000V170C860 205 720 150 560 175C400 200 260 230 120 190C70 183 30 180 0 185Z"/></path>
+<text x="500" y="88" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="800" fill="#fff" letter-spacing="-1">Bradley Cooper</text>
+<text x="500" y="126" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#fff" fill-opacity=".92" letter-spacing="3">CO-CEO · APEX INFINITY  ·  SALESFORCE · AUTOMATION · PRODUCT</text>
+</svg>

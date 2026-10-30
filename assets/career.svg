@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" fill="none">
+<defs><pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#2a282a"/></pattern>
+<clipPath id="p"><rect width="1000" height="360" rx="16"/></clipPath>
+<clipPath id="ty"><rect x="84" y="18" height="26" width="0"><animate attributeName="width" from="0" to="300" dur="1s" begin=".1s" fill="freeze"/></rect></clipPath>
+<linearGradient id="tr" x1="100" x2="900" gradientUnits="userSpaceOnUse"><stop stop-color="#D29922"/><stop offset=".25" stop-color="#0B95E6"/><stop offset=".5" stop-color="#EC4FA0"/><stop offset=".75" stop-color="#886BDA"/><stop offset="1" stop-color="#0B95E6"/></linearGradient>
+<filter id="gl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g clip-path="url(#p)"><rect width="1000" height="360" fill="#171617"/><rect width="1000" height="360" fill="url(#d)"/>
+<circle cx="30" cy="31" r="5" fill="#f85149"/><circle cx="47" cy="31" r="5" fill="#D29922"/><circle cx="64" cy="31" r="5" fill="#3FB950"/>
+<text x="84" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" clip-path="url(#ty)"><tspan fill="#EC4FA0">bradley@apex</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#E6EDF3">git log --career</tspan></text>
+<text x="972" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" letter-spacing="3" fill="#6E7681" text-anchor="end">CAREER HISTORY · 2010 → NOW</text>
+<line x1="100" y1="190" x2="900" y2="190" stroke="#2f2d30" stroke-width="4" stroke-linecap="round"/>
+<line x1="100" y1="190" x2="900" y2="190" stroke="url(#tr)" stroke-width="4" stroke-linecap="round" stroke-dasharray="800" stroke-dashoffset="800"><animate attributeName="stroke-dashoffset" to="0" dur="2.6s" begin=".6s" fill="freeze"/></line>
+<g opacity="0"><animate attributeName="opacity" to="1" dur=".45s" begin="0.70s" fill="freeze"/>
+<line x1="100.0" y1="164" x2="100.0" y2="180" stroke="#D29922" stroke-opacity=".5" stroke-width="1.5"/>
+<rect x="25.0" y="78" width="150" height="84" rx="10" fill="#1f1d20" stroke="#D29922" stroke-opacity="0.35"/>
+<text x="100.0" y="102" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#D29922">2010</text>
+<text x="100.0" y="125" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#E6EDF3">Financial services</text>
+<text x="100.0" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8B949E">Pensions &amp; claims</text>
+<circle cx="100.0" cy="190" r="7" fill="#171617" stroke="#D29922" stroke-width="3" filter="url(#gl)"/>
+<circle cx="100.0" cy="190" r="3" fill="#D29922"/></g>
+<g opacity="0"><animate attributeName="opacity" to="1" dur=".45s" begin="1.06s" fill="freeze"/>
+<line x1="233.33333333333334" y1="200" x2="233.33333333333334" y2="218" stroke="#D29922" stroke-opacity=".5" stroke-width="1.5"/>
+<rect x="158.33333333333334" y="218" width="150" height="84" rx="10" fill="#1f1d20" stroke="#D29922" stroke-opacity="0.35"/>
+<text x="233.33333333333334" y="242" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#D29922">2016</text>
+<text x="233.33333333333334" y="265" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#E6EDF3">Founder &amp; MD</text>
+<text x="233.33333333333334" y="284" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8B949E">Gauteng Digital</text>
+<circle cx="233.33333333333334" cy="190" r="7" fill="#171617" stroke="#D29922" stroke-width="3" filter="url(#gl)"/>
+<circle cx="233.33333333333334" cy="190" r="3" fill="#D29922"/></g>
+<g opacity="0"><animate attributeName="opacity" to="1" dur=".45s" begin="1.42s" fill="freeze"/>
+<line x1="366.6666666666667" y1="164" x2="366.6666666666667" y2="180" stroke="#0B95E6" stroke-opacity=".5" stroke-width="1.5"/>
+<rect x="291.6666666666667" y="78" width="150" height="84" rx="10" fill="#1f1d20" stroke="#0B95E6" stroke-opacity="0.35"/>
+<text x="366.6666666666667" y="102" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0B95E6">2017</text>
+<text x="366.6666666666667" y="125" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#E6EDF3">Chief Technology Officer</text>
+<text x="366.6666666666667" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8B949E">Harbour Rock Capital</text>
+<circle cx="366.6666666666667" cy="190" r="7" fill="#171617" stroke="#0B95E6" stroke-width="3" filter="url(#gl)"/>
+<circle cx="366.6666666666667" cy="190" r="3" fill="#0B95E6"/></g>
+<g opacity="0"><animate attributeName="opacity" to="1" dur=".45s" begin="1.78s" fill="freeze"/>
+<line x1="500.0" y1="200" x2="500.0" y2="218" stroke="#EC4FA0" stroke-opacity=".5" stroke-width="1.5"/>
+<rect x="425.0" y="218" width="150" height="84" rx="10" fill="#1f1d20" stroke="#EC4FA0" stroke-opacity="0.35"/>
+<text x="500.0" y="242" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#EC4FA0">2020</text>
+<text x="500.0" y="265" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#E6EDF3">Co-founder · Co-CEO</text>
+<text x="500.0" y="284" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8B949E">Apex Infinity Solutions</text>
+<circle cx="500.0" cy="190" r="7" fill="#171617" stroke="#EC4FA0" stroke-width="3" filter="url(#gl)"/>
+<circle cx="500.0" cy="190" r="3" fill="#EC4FA0"/></g>
+<g opacity="0"><animate attributeName="opacity" to="1" dur=".45s" begin="2.14s" fill="freeze"/>
+<line x1="633.3333333333334" y1="164" x2="633.3333333333334" y2="180" stroke="#886BDA" stroke-opacity=".5" stroke-width="1.5"/>
+<rect x="558.3333333333334" y="78" width="150" height="84" rx="10" fill="#1f1d20" stroke="#886BDA" stroke-opacity="0.35"/>
+<text x="633.3333333333334" y="102" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#886BDA">2021</text>
+<text x="633.3333333333334" y="125" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#E6EDF3">Co-founder &amp; Director</text>
+<text x="633.3333333333334" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8B949E">Thrift Map</text>
+<circle cx="633.3333333333334" cy="190" r="7" fill="#171617" stroke="#886BDA" stroke-width="3" filter="url(#gl)"/>
+<circle cx="633.3333333333334" cy="190" r="3" fill="#886BDA"/></g>
+<g opacity="0"><animate attributeName="opacity" to="1" dur=".45s" begin="2.50s" fill="freeze"/>
+<line x1="766.6666666666667" y1="200" x2="766.6666666666667" y2="218" stroke="#886BDA" stroke-opacity=".5" stroke-width="1.5"/>
+<rect x="691.6666666666667" y="218" width="150" height="84" rx="10" fill="#1f1d20" stroke="#886BDA" stroke-opacity="0.35"/>
+<text x="766.6666666666667" y="242" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#886BDA">2024</text>
+<text x="766.6666666666667" y="265" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#E6EDF3">Founder · CTO</text>
+<text x="766.6666666666667" y="284" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8B949E">Apex Infinity Tools</text>
+<circle cx="766.6666666666667" cy="190" r="7" fill="#171617" stroke="#886BDA" stroke-width="3" filter="url(#gl)"/>
+<circle cx="766.6666666666667" cy="190" r="3" fill="#886BDA"/></g>
+<g opacity="0"><animate attributeName="opacity" to="1" dur=".45s" begin="2.86s" fill="freeze"/>
+<line x1="900.0" y1="164" x2="900.0" y2="180" stroke="#0B95E6" stroke-opacity=".5" stroke-width="1.5"/>
+<rect x="825.0" y="78" width="150" height="84" rx="10" fill="#1f1d20" stroke="#0B95E6" stroke-opacity="0.9"/>
+<text x="900.0" y="102" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0B95E6">2025 · NOW</text>
+<text x="900.0" y="125" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#E6EDF3">Founder &amp; Director</text>
+<text x="900.0" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8B949E">Apex Infinity Digital</text>
+<circle cx="900.0" cy="190" r="9" fill="#171617" stroke="#0B95E6" stroke-width="3" filter="url(#gl)"/>
+<circle cx="900.0" cy="190" r="3" fill="#0B95E6"/><circle cx="900.0" cy="190" r="9" stroke="#0B95E6" stroke-width="2" fill="none"><animate attributeName="r" values="9;20" dur="1.8s" begin="3.36s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".8;0" dur="1.8s" begin="3.36s" repeatCount="indefinite"/></circle></g>
+<text x="500.0" y="342" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#6E7681">13+ years in financial services &amp; tech  ·  Salesforce since day one  ·  4 companies founded</text></g></svg>

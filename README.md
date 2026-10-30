@@ -1,47 +1,45 @@
-<div align="center">
+<img src="assets/banner.svg" width="100%" alt="Bradley Cooper – Co-CEO, Apex Infinity" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4FA0,100:0B95E6&height=180&section=header&text=Bradley%20Cooper&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Technology%20Founder%20%C2%B7%20Systems%20Architect%20%C2%B7%20Product%20Builder&descAlignY=58&descSize=16" width="100%" alt="Bradley Cooper – Technology Founder, Systems Architect, Product Builder" />
+<p align="center">
+  <img src="assets/typing.svg" width="90%" alt="I help businesses unlock the full potential of Salesforce." />
+</p>
 
-<a href="https://apexinfinitysolutions.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=20&pause=1200&color=886BDA&center=true&vCenter=true&width=620&lines=I+build+technology+that+makes+complex+businesses+simpler.;Salesforce+%C2%B7+Integrations+%C2%B7+Automation+%C2%B7+Digital+products;Understand+the+problem.+Design+for+people.+Build+for+the+future." alt="I build technology that makes complex businesses simpler." />
-</a>
+<p align="center">
+  <a href="https://uk.linkedin.com/in/bradleyrcooper"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://apexinfinitysolutions.com"><img src="assets/badges/solutions.svg" alt="Apex Infinity Solutions" /></a>
+  <a href="https://apexinfinitytools.io"><img src="assets/badges/tools.svg" alt="Apex Infinity Tools" /></a>
+  <a href="https://apexinfinitydigital.co.uk"><img src="assets/badges/digital.svg" alt="Apex Infinity Digital" /></a>
+</p>
 
-<br/>
+---
 
-[![Apex Infinity Solutions](https://img.shields.io/badge/Apex_Infinity-Solutions-EC4FA0?style=for-the-badge)](https://apexinfinitysolutions.com)
-[![Apex Infinity Tools](https://img.shields.io/badge/Apex_Infinity-Tools-886BDA?style=for-the-badge)](https://apexinfinitytools.io)
-[![Apex Infinity Digital](https://img.shields.io/badge/Apex_Infinity-Digital-0B95E6?style=for-the-badge)](https://apexinfinitydigital.co.uk)
+## 👋 About me
 
-</div>
+<img src="assets/bradley.png" align="right" width="190" alt="Bradley Cooper" />
 
-## 👋 Hello, I'm Bradley
+```js
+const bradley = {
+  role: "Co-CEO & Co-founder",
+  company: "Apex Infinity Solutions",
+  roots: "South African heritage 🇿🇦, based in Kent 🇬🇧",
+  journey: "Financial services → CTO → Founder",
+  leads: ["Technology strategy", "Salesforce delivery", "Building great teams"],
+  builds: ["Business systems", "Integrations", "Automation & AI"],
+  motto: "First who, then what."
+};
+```
 
-I'm a UK-based founder who works where business and technology meet. Most of my time goes on taking messy, disconnected processes and turning them into joined-up systems that people actually enjoy using.
+I've spent over a decade in financial services, most of it as **Chief Technology Officer at Harbour Rock Capital**, where I was part of the team from day one. We started out as Salesforce customers trying to make the system fit the way we actually worked. We fixed it ourselves, people noticed, and that turned into **Apex Infinity**.
 
-That usually means **Salesforce, integrations, automation, websites and product development**, but the tech is only half of it. The bit I care about most is working out the real problem first, then building something that's still useful in three years' time.
+These days I lead the technology side of the Apex Infinity family. That means helping businesses get far more out of Salesforce, building our own tools, and turning complicated problems into simple, joined-up systems people actually enjoy using.
 
-> **How I work:** understand the problem → design for the people using it → build with the future in mind.
+I'm hands-on and people-first. I'll happily talk strategy with a board and then dig into a flow with the team. I'm also known for translating tech jargon into plain English 😉
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<br clear="right"/>
 
-**🔭 Right now I'm…**
-- growing the Apex Infinity family of businesses
-- building AI-assisted tools for client teams
-- helping organisations get more from Salesforce
+<img src="assets/career.svg" width="100%" alt="Career history: financial services (2010), Founder & MD at Gauteng Digital (2016), CTO at Harbour Rock Capital (2017), Co-founder & Co-CEO at Apex Infinity Solutions (2020), Co-founder at Thrift Map (2021), Founder & CTO at Apex Infinity Tools (2024), Founder at Apex Infinity Digital (2025, now)" />
 
-</td>
-    <td valign="top" width="50%">
-
-**💬 Talk to me about…**
-- connecting systems that don't talk to each other
-- where automation is (and isn't) worth it
-- getting a product idea from napkin to launch
-
-</td>
-  </tr>
-</table>
+---
 
 ## 🚀 What I'm building
 
@@ -49,85 +47,102 @@ That usually means **Salesforce, integrations, automation, websites and product 
   <tr>
     <td width="33%" valign="top" align="center">
       <h3>🔷 Solutions</h3>
-      <p>Salesforce implementation, integrations and long-term optimisation, making connected business systems work properly.</p>
-      <a href="https://apexinfinitysolutions.com"><strong>apexinfinitysolutions.com →</strong></a>
+      <p>Salesforce implementation, integrations and long-term optimisation, so connected systems work properly.</p>
+      <a href="https://apexinfinitysolutions.com"><b>apexinfinitysolutions.com →</b></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🟣 Tools</h3>
-      <p>Practical software that removes friction from everyday Salesforce and business workflows.</p>
-      <a href="https://apexinfinitytools.io"><strong>apexinfinitytools.io →</strong></a>
+      <p>Practical Salesforce products, from vaults and e-signing to Gantt charts and timesheets.</p>
+      <a href="https://apexinfinitytools.io"><b>apexinfinitytools.io →</b></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🌐 Digital</h3>
       <p>Websites, design and marketing that tie creative work back to measurable results.</p>
-      <a href="https://apexinfinitydigital.co.uk"><strong>apexinfinitydigital.co.uk →</strong></a>
+      <a href="https://apexinfinitydigital.co.uk"><b>apexinfinitydigital.co.uk →</b></a>
     </td>
   </tr>
 </table>
 
-<!-- Add Thriftmap here once there's a public description and link to share. -->
+---
 
-## 🧩 Problems I like solving
-
-| | |
-|---|---|
-| 🔗 **Disconnected systems** | Getting platforms and data to work as one |
-| ⚙️ **Manual work** | Finding where automation genuinely pays off |
-| 🎯 **Complex software** | Turning tricky requirements into clear experiences |
-| 💡 **Product ideas** | Taking a concept to something useful and sustainable |
-| 🏗️ **Long-term architecture** | Systems that adapt as the business grows |
-
-## 🛠️ Platforms & disciplines
-
-<div align="center">
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-171617?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-171617?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![OpenAI](https://img.shields.io/badge/OpenAI-171617?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171617?style=for-the-badge&logo=github&logoColor=white)
-<br/>
-![Automation](https://img.shields.io/badge/Workflow_Automation-886BDA?style=for-the-badge)
-![Integration](https://img.shields.io/badge/Data_Integration-0B95E6?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Cloud_Architecture-EC4FA0?style=for-the-badge)
-
-</div>
-
-<details>
-<summary><strong>🔁 How I think about building products</strong></summary>
-<br/>
+## 🧭 How I build
 
 ```mermaid
 flowchart LR
-    A([Understand]) --> B([Design])
-    B --> C([Build])
-    C --> D([Measure])
-    D --> E([Improve])
-    E --> A
-    style A fill:#EC4FA0,color:#fff,stroke:#EC4FA0
-    style B fill:#886BDA,color:#fff,stroke:#886BDA
-    style C fill:#0B95E6,color:#fff,stroke:#0B95E6
-    style D fill:#886BDA,color:#fff,stroke:#886BDA
-    style E fill:#EC4FA0,color:#fff,stroke:#EC4FA0
+    A["🔍 Understand"] --> B["✏️ Design"] --> C["🛠️ Build"] --> D["📏 Measure"] --> E["📈 Improve"]
 ```
 
-Practical experiments, secure foundations, a clear user experience and plenty of iteration.
+| Stage | What it means |
+|:--|:--|
+| 🔍 **Understand** | Find the real problem and the people it affects before touching a system |
+| ✏️ **Design** | Shape it around how the team actually works, not how the software wants them to |
+| 🛠️ **Build** | Small steps, quick feedback and secure foundations |
+| 📏 **Measure** | Check that it's genuinely saving time, money or headaches |
+| 📈 **Improve** | Keep refining, because businesses change and systems should too |
 
-</details>
+---
 
-## 🌱 Beyond the code
+## 💼 What I bring
 
-Technology is a means to an end. The fun part is finding the right problem, getting the right people round the table and making something that genuinely improves how people work.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Some of my work is public; a lot of it is private while it's being built. This profile shows what I'm ready to share, and there's more on the way.
+**🧑‍🤝‍🧑 Leadership**
+- Technology strategy & roadmaps
+- Building calm, high-trust, flat-structure teams
+- Translating business goals into technical plans
+- Stakeholder alignment, without the jargon
+- Founding & scaling new ventures
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-### Build thoughtfully. Keep learning. Make it useful.
+**⚙️ Technology**
+- Salesforce architecture & optimisation
+- Integrations & connected data
+- Workflow automation & AI agents
+- Product design for SaaS tools
+- Web platforms & client portals
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B95E6,100:EC4FA0&height=100&section=footer" width="100%" alt="" />
+</td>
+</tr>
+</table>
 
-<sub>© Bradley Cooper · United Kingdom 🇬🇧</sub>
+---
 
-</div>
+## 🛠 Platforms & disciplines
+
+<p align="center">
+  <img src="assets/badges/salesforce.svg" alt="Salesforce" />
+  <img src="assets/badges/agentforce.svg" alt="Agentforce" />
+  <img src="assets/badges/javascript.svg" alt="JavaScript" />
+  <img src="assets/badges/wordpress.svg" alt="WordPress" />
+  <img src="assets/badges/supabase.svg" alt="Supabase" />
+  <img src="assets/badges/openai.svg" alt="OpenAI" />
+  <img src="assets/badges/github.svg" alt="GitHub" />
+  <br/>
+  <img src="assets/badges/automation.svg" alt="Workflow Automation" />
+  <img src="assets/badges/integration.svg" alt="Data Integration" />
+  <img src="assets/badges/architecture.svg" alt="Systems Architecture" />
+</p>
+
+---
+
+## 💬 In other people's words
+
+> *"Bradley is the kind of leader every engineer hopes to work with. During crunch periods, he was the calm in the storm, shielding us from cross-team noise and giving us the clarity and space to focus on solving problems."*
+>
+> <sub>From a LinkedIn recommendation</sub>
+
+---
+
+## 🌱 Off the clock
+
+- 👨‍👦‍👦 Dad of two little boys
+- 📚 *Good to Great* fan: get the right people on the bus first
+- ☕ Always up for a chat about blending tech with business strategy
+
+<p align="center"><i>"Build thoughtfully. Keep learning. Make it useful."</i></p>
+
+<img src="assets/footer.svg" width="100%" alt="" />
