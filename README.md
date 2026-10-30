@@ -37,7 +37,7 @@ I'm hands-on and people-first. I'll happily talk strategy with a board and then 
 
 <br clear="right"/>
 
-<img src="assets/career.svg" width="100%" alt="Career history: financial services (2010), Founder & MD at Gauteng Digital (2016), CTO at Harbour Rock Capital (2017), Co-founder & Co-CEO at Apex Infinity Solutions (2020), Co-founder at Thrift Map (2021), Founder & CTO at Apex Infinity Tools (2024), Founder at Apex Infinity Digital (2025, now)" />
+<img src="assets/career.svg" width="100%" alt="Release history: Founder &amp; MD at Gauteng Digital (2016–2022), CTO at Harbour Rock Capital (from 2017), Co-founder &amp; Co-CEO at Apex Infinity Solutions (2020–now), Co-founder at Thrift Map (2021–now), Founder &amp; CTO at Apex Infinity Tools (2024–now), Founder at Apex Infinity Digital (2025–now, HEAD)" />
 
 ---
 
