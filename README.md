@@ -1,7 +1,7 @@
-<img src="assets/banner.svg" width="100%" alt="Bradley Cooper – Co-CEO, Apex Infinity" />
+<img src="assets/banner.svg?v=2" width="100%" alt="Bradley Cooper – Co-CEO, Apex Infinity" />
 
 <p align="center">
-  <img src="assets/typing.svg" width="90%" alt="I help businesses unlock the full potential of Salesforce." />
+  <img src="assets/typing.svg?v=2" width="90%" alt="I help businesses unlock the full potential of Salesforce." />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ I'm hands-on and people-first. I'll happily talk strategy with a board and then 
 
 <br clear="right"/>
 
-<img src="assets/career.svg" width="100%" alt="Release history: Founder &amp; MD at Gauteng Digital (2016–2022), CTO at Harbour Rock Capital (from 2017), Co-founder &amp; Co-CEO at Apex Infinity Solutions (2020–now), Co-founder at Thrift Map (2021–now), Founder &amp; CTO at Apex Infinity Tools (2024–now), Founder at Apex Infinity Digital (2025–now, HEAD)" />
+<img src="assets/career.svg?v=2" width="100%" alt="Release history: Founder &amp; MD at Gauteng Digital (2016–2022), CTO at Harbour Rock Capital (from 2017), Co-founder &amp; Co-CEO at Apex Infinity Solutions (2020–now), Co-founder at Thrift Map (2021–now), Founder &amp; CTO at Apex Infinity Tools (2024–now), Founder at Apex Infinity Digital (2025–now, HEAD)" />
 
 ---
 
